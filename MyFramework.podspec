@@ -81,9 +81,6 @@ Pod::Spec.new do |spec|
 
   spec.source       = { :git => "https://github.com/nehaarneja91/MyPodFramework.git", :tag => "1.0.2" }
 
-  spec.source = { :http => 'http://example.com/sdk/1.0.0/MySDK.zip' }
-
-
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
