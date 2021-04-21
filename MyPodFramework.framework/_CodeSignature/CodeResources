@@ -4,56 +4,25 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/MyPodFramework-Swift.h</key>
-		<data>
-		lYUNPrc9WDGzNaJYZ5wIvPrtY+o=
-		</data>
 		<key>Headers/MyPodFramework.h</key>
 		<data>
 		ohjWeLeffk0bmq7ppNxeyoqGfZk=
+		</data>
+		<key>Headers/PodSampleClass.swift</key>
+		<data>
+		yBjJzszlEZf6YUDtSj5aaO0Ainc=
 		</data>
 		<key>Info.plist</key>
 		<data>
 		/MeSivxhVPWW6Rn4xTspxHnK3lY=
 		</data>
-		<key>Modules/MyPodFramework.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
-		<data>
-		XpOQDvi8aUzgKJd3mVEfnyVSFb4=
-		</data>
-		<key>Modules/MyPodFramework.swiftmodule/Project/x86_64.swiftsourceinfo</key>
-		<data>
-		XpOQDvi8aUzgKJd3mVEfnyVSFb4=
-		</data>
-		<key>Modules/MyPodFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
-		<data>
-		20e6SarJ8z3lCr0rHF/xmhbcxZU=
-		</data>
-		<key>Modules/MyPodFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
-		<data>
-		Aj8YbwD/qYjWgsEQJjqf7Md1RYc=
-		</data>
-		<key>Modules/MyPodFramework.swiftmodule/x86_64.swiftdoc</key>
-		<data>
-		20e6SarJ8z3lCr0rHF/xmhbcxZU=
-		</data>
-		<key>Modules/MyPodFramework.swiftmodule/x86_64.swiftmodule</key>
-		<data>
-		Aj8YbwD/qYjWgsEQJjqf7Md1RYc=
-		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		rjernHhpIWXjXkKnbDQIFOBmL1Y=
+		YoZ+G9X+wENXMiGUDSPwjD0eWls=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/MyPodFramework-Swift.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			C0wF3UpHVG6hBr5uuTcgIQE75U9xr/O4Il9k2OusStY=
-			</data>
-		</dict>
 		<key>Headers/MyPodFramework.h</key>
 		<dict>
 			<key>hash2</key>
@@ -61,53 +30,18 @@
 			yPVx8ydoY5yLnDcqNor7aWAZP8Z2cPCKtDftkvBa94g=
 			</data>
 		</dict>
-		<key>Modules/MyPodFramework.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
+		<key>Headers/PodSampleClass.swift</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NFikOzHdy4US4PBxIWYM4g3jUfQMv+YGmVlox/G1s/k=
-			</data>
-		</dict>
-		<key>Modules/MyPodFramework.swiftmodule/Project/x86_64.swiftsourceinfo</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			NFikOzHdy4US4PBxIWYM4g3jUfQMv+YGmVlox/G1s/k=
-			</data>
-		</dict>
-		<key>Modules/MyPodFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			oSxPpWab8RpcPRdBWFQvOnJUwuDmRh4uGRmhoFfRT/A=
-			</data>
-		</dict>
-		<key>Modules/MyPodFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Vwbw/d2umEMh9XDlrpVeBt8AqB3ROIjDLKYeP4cDhJI=
-			</data>
-		</dict>
-		<key>Modules/MyPodFramework.swiftmodule/x86_64.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			oSxPpWab8RpcPRdBWFQvOnJUwuDmRh4uGRmhoFfRT/A=
-			</data>
-		</dict>
-		<key>Modules/MyPodFramework.swiftmodule/x86_64.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Vwbw/d2umEMh9XDlrpVeBt8AqB3ROIjDLKYeP4cDhJI=
+			I0O1x6M7FPTa+SOvWpf8u+E5VzRCK1WJLz8vjkDXxxE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cpmYCj/LP4kssEi63t3xIgvCcSRKh0J3vlWv8IrNfUg=
+			/4P0SjG54Wus/zb8NT+xM9148Qo5yMjYYWQZm8F6bjQ=
 			</data>
 		</dict>
 	</dict>

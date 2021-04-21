@@ -4,8 +4,3 @@ framework module MyPodFramework {
   export *
   module * { export * }
 }
-
-module MyPodFramework.Swift {
-    header "MyPodFramework-Swift.h"
-    requires objc
-}
