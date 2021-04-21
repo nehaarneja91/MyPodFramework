@@ -79,7 +79,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/nehaarneja91/MyPodFramework.git", :tag => "1.0.0" }
+  spec.source       = { :git => "https://github.com/nehaarneja91/MyPodFramework.git", :tag => "1.0.2" }
 
   spec.source = { :http => 'http://example.com/sdk/1.0.0/MySDK.zip' }
 
